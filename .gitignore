@@ -33,3 +33,5 @@ Gemfile.lock
 .idea
 .settings
 lib/arjdbc/jdbc/adapter_java.jar
+
+/jruby-jdbc-mysql*

@@ -1,0 +1,15 @@
+Source: jruby-jdbc-mysql
+Section: ruby
+Priority: optional
+Maintainer: Yury Zavarin <yzavarin@ebi.ac.uk>
+XS-Ruby-Versions: all
+Build-Depends:
+ debhelper (>= 9~),
+ gem2deb,
+
+Package: jruby-jdbc-mysql
+Architecture: all
+XS-Ruby-Versions: ${ruby:Versions}
+Depends:
+ jruby,
+Description: JRuby wrapper for MySQL Connector/J (official JDBC driver for MySQL)

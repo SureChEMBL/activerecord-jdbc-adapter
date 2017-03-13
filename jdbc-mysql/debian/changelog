@@ -1,0 +1,5 @@
+jruby-jdbc-mysql (5.1.40-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Yury Zavarin <yzavarin@ebi.ac.uk>  Mon, 13 Mar 2017 16:00:19 +0000
